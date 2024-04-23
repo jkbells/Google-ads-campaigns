@@ -47,3 +47,13 @@ My client's business was hair extensions, and the main goal of their campaign wa
 
 ![4](https://github.com/jkbells/Google-ads-campaigns/assets/73393333/a5df53bf-fd3e-4f9a-8f9e-ba9fcdb4d28e)
 
+# Google ads - 5
+# Google Ads for Jubilee Scents
+Experience the art of driving exponential growth in online sales with our Google Ads campaign for Jubilee Scents, a premier UK-based perfume e-commerce store. Our meticulous setup and strategic management yielded remarkable results: a meticulously tracked investment of £30.4K reaped substantial rewards. With an average cost-per-click of £0.37, we generated a staggering 81.7K clicks, translating into an astounding 14,812.34 conversions. The campaign's exceptional efficiency is evident in its impressive metrics: a conversion value of £453,556.91, with a cost-per-conversion of £2.05 and a stunning conversion value-to-cost ratio of 14.93. Jubilee Scents experienced an outstanding 16.54% conversion rate, showcasing the power of precision targeting and compelling ad content in driving engagement and sales. Our campaign not only amplified visibility but also significantly bolstered the company's bottom line, exemplifying the potential of Google Ads in transforming e-commerce success.
+
+![1](https://github.com/jkbells/Google-ads-campaigns/assets/73393333/36b1668c-63da-4ceb-bf9f-47768b795c2c)
+
+![Screenshot 2023-11-17 154202](https://github.com/jkbells/Google-ads-campaigns/assets/73393333/c0cc0ce2-eedc-40e0-b638-e9b08afb3f41)
+
+
+
